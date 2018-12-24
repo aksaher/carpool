@@ -109,5 +109,10 @@ public class LoginActivity extends AppCompatActivity {
                 break;
         }
     }
+
+    private void performLogin()
+    {
+
+    }
 }
 
