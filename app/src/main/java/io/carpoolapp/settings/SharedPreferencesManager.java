@@ -14,7 +14,7 @@ import io.carpoolapp.models.User;
 
 public class SharedPreferencesManager implements UserSettings {
 
-    String str = "commit 4";
+    String str = "commit 11";
     private static final String KEY_USER = "user";
     private static final String IS_USER_LOGGED_IN = "is_user_logged_in";
     private final SharedPreferences preferences;
